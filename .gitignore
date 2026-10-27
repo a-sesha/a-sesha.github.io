@@ -1,0 +1,6 @@
+.env*
+public/
+__pycache__/
+*.pyc
+# unfinished work and its large media stay out of the public repository
+content/drafts/

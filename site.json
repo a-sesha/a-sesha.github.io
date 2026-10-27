@@ -1,0 +1,23 @@
+{
+  "title": "a-sesha",
+  "author": "a-sesha",
+  "description": "Notes and write-ups on side projects.",
+  "url": "https://a-sesha.github.io",
+  "lang": "en",
+  "intro": "<p>Notes and write-ups on the projects I build on the side. Each project has its own page under <a href=\"projects/index.html\">Projects</a>.</p>",
+  "nav": [
+    {
+      "label": "Posts",
+      "href": "index.html#posts"
+    },
+    {
+      "label": "Projects",
+      "href": "projects/index.html"
+    },
+    {
+      "label": "About",
+      "href": "about/index.html"
+    }
+  ],
+  "footer": "<p>&copy; a-sesha.</p>"
+}
